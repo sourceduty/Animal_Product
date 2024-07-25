@@ -31,6 +31,8 @@
 [Movie Product](https://github.com/sourceduty/Movie_Product)
 <br>
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Character Product](https://github.com/sourceduty/Character_Product)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
