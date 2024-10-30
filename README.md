@@ -1,4 +1,4 @@
-![Animal Product](https://github.com/sourceduty/Animal_Product/assets/123030236/c44bc17b-fe12-485b-b8eb-ebbfb5fa388b)
+![Animal](https://github.com/user-attachments/assets/7e793f3f-a250-46a8-aef3-1fe15389acc0)
 
 > Use DALLE-3 to create product packaging for animals and insects.
 
@@ -20,6 +20,8 @@
 #
 
 ![Examples](https://github.com/sourceduty/Animal_Product/assets/123030236/4ef4e87d-0f98-4048-be11-7f633836aa6a)
+#
+![Animal Product](https://github.com/sourceduty/Animal_Product/assets/123030236/c44bc17b-fe12-485b-b8eb-ebbfb5fa388b)
 
 #
 ### Related Links
